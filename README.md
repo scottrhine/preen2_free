@@ -39,3 +39,5 @@ Version 2.0 (ASLv2). http://openxml4j.svn.sourceforge.net
 Several supporting libraries for OpenXml4J (xmlgraphics-commons, commons-io, commons-logging,
 and log4j) are Copyright © 2012 by The Apache Software Foundation, also licensed under the
 Apache License, Version 2.0. These are bundled with PreEdit for user convenience.
+
+* top secret bulk option: go into PreEditGui and set allowBulk = true. Everything in a directory will be processed with the same options.
